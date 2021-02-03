@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">some text</header>
+      <header className="App-header">Another text for testing auto deploy</header>
     </div>
   );
 }
