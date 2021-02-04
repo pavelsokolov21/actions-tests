@@ -33,4 +33,3 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
           repository: smplay/github-actions
-          registry: docker.pkg.github.com
